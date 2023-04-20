@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/iveksl2
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/igor-veksler-9923552b/
+    - icon: github
+      text: Github
+      href: https://github.com/iveksl2
+
+---
+
+About this blog
